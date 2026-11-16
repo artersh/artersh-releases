@@ -1,0 +1,6 @@
+{
+  "version": "1.2.2",
+  "notes": "Консистентность стиля и персонажа, видео i2v без дрейфа, перехватчик правок в опросе, фикс видеокарты при сборке.",
+  "windows": "https://github.com/artersh/artersh-releases/releases/download/v1.2.2/ArtErshSTUDIO-Client-Setup.exe",
+  "mac": "https://github.com/artersh/artersh-releases/releases/download/v1.2.2/ArtErshSTUDIO-Client-Setup-macos-arm64.dmg"
+}

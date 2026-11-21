@@ -1,6 +1,10 @@
 {
-  "version": "2.2.15",
-  "notes": "Единый сборщик Windows/Mac, нативные мак-пути, открытие файлов/папок на маке, сброс кэша интерфейса, ffmpeg для Mac.",
-  "windows": "https://github.com/artersh/artersh-releases/releases/download/v2.2.15/ArtErshSTUDIO-Client-Setup.exe",
-  "mac": "https://github.com/artersh/artersh-releases/releases/download/v2.2.15/ArtErshSTUDIO-Client-Setup-macos-arm64.dmg"
+  "version": "3.0.0",
+  "notes": "Клиентские установщики для Windows x64 и macOS Apple Silicon. На macOS проверены установка и запуск приложения. При чистом запуске локальный сервис Flow не ответил.",
+  "windows": "https://github.com/artersh/artersh-releases/releases/download/v3.0.0/ArtErshSTUDIO-Client-Setup-v3.0.0.exe",
+  "mac": "https://github.com/artersh/artersh-releases/releases/download/v3.0.0/ArtErshSTUDIO-Client-Setup-v3.0.0-macos-arm64.dmg",
+  "windows_sha256": "6511e76811aa69c72647910f8b3b67b43ea26208b777f07d8e92ea87b3a02d46",
+  "mac_sha256": "b69cf6d63a589f0f2418b061f7f0f3eb959cdecf3a5e0d5914db5d32c666fde6",
+  "windows_size": 1627729221,
+  "mac_size": 437233289
 }

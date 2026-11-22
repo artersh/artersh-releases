@@ -1,10 +1,10 @@
 {
-  "version": "3.0.2",
-  "notes": "Обновлён редактор сценария. Добавлена двухэтапная разбивка с сохранением прогресса и привязкой выбранного ведущего.",
-  "windows": "https://github.com/artersh/artersh-releases/releases/download/v3.0.2/ArtErshSTUDIO-Client-Setup-v3.0.2.exe",
-  "mac": "https://github.com/artersh/artersh-releases/releases/download/v3.0.2/ArtErshSTUDIO-Client-Setup-v3.0.2-macos-arm64.dmg",
-  "windows_sha256": "b8b5bbebfd652363509c809c7d4876a7a69ebea8ad3042dce4a568ef094b9b41",
-  "mac_sha256": "2a6bca555fa07ca75863ec98d9788380d462d04ca7442157eabcae1e3328aa49",
-  "windows_size": 1627831135,
-  "mac_size": 438045169
+  "version": "3.0.3",
+  "notes": "Добавлена карточка GPT через CLI. Обновлены диалоги macOS, разбивка сценариев, работа с портретами и локациями, интеграция Lumean.",
+  "windows": "https://github.com/artersh/artersh-releases/releases/download/v3.0.3/ArtErshSTUDIO-Client-Setup-v3.0.3.exe",
+  "mac": "https://github.com/artersh/artersh-releases/releases/download/v3.0.3/ArtErshSTUDIO-Client-Setup-v3.0.3-macos-arm64.dmg",
+  "windows_sha256": "30608f2d15b2a85eccce988de3eb2cabbe7c6f80055797809aca22749faa2199",
+  "mac_sha256": "3885cb358165719b0427ec7fb6d75d0764ca4b280397727efc36b749e323efa1",
+  "windows_size": 1629643589,
+  "mac_size": 437452750
 }

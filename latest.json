@@ -1,10 +1,10 @@
 {
-  "version": "3.0.0",
-  "notes": "Клиентские установщики для Windows x64 и macOS Apple Silicon. На macOS проверены установка и запуск приложения. При чистом запуске локальный сервис Flow не ответил.",
-  "windows": "https://github.com/artersh/artersh-releases/releases/download/v3.0.0/ArtErshSTUDIO-Client-Setup-v3.0.0.exe",
-  "mac": "https://github.com/artersh/artersh-releases/releases/download/v3.0.0/ArtErshSTUDIO-Client-Setup-v3.0.0-macos-arm64.dmg",
-  "windows_sha256": "6511e76811aa69c72647910f8b3b67b43ea26208b777f07d8e92ea87b3a02d46",
-  "mac_sha256": "b69cf6d63a589f0f2418b061f7f0f3eb959cdecf3a5e0d5914db5d32c666fde6",
-  "windows_size": 1627729221,
-  "mac_size": 437233289
+  "version": "3.0.1",
+  "notes": "Исправлено продолжение проекта: готовая сцена сохраняется, в очередь возвращается сцена без файла видео.",
+  "windows": "https://github.com/artersh/artersh-releases/releases/download/v3.0.1/ArtErshSTUDIO-Client-Setup-v3.0.1.exe",
+  "mac": "https://github.com/artersh/artersh-releases/releases/download/v3.0.1/ArtErshSTUDIO-Client-Setup-v3.0.1-macos-arm64.dmg",
+  "windows_sha256": "15c6e86a41d7be0b34005c8a4564553ea86d0ba2bc9c0a2ebe7a4bec14cd3c67",
+  "mac_sha256": "6abd6197f8abf2bde67620b581bdcaaa5894e62bbc7a6ae90f48dfb31ce6a764",
+  "windows_size": 1627730011,
+  "mac_size": 435939112
 }

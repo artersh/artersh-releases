@@ -1,10 +1,10 @@
 {
-  "version": "3.0.3",
-  "notes": "Добавлена карточка GPT через CLI. Обновлены диалоги macOS, разбивка сценариев, работа с портретами и локациями, интеграция Lumean.",
-  "windows": "https://github.com/artersh/artersh-releases/releases/download/v3.0.3/ArtErshSTUDIO-Client-Setup-v3.0.3.exe",
-  "mac": "https://github.com/artersh/artersh-releases/releases/download/v3.0.3/ArtErshSTUDIO-Client-Setup-v3.0.3-macos-arm64.dmg",
-  "windows_sha256": "30608f2d15b2a85eccce988de3eb2cabbe7c6f80055797809aca22749faa2199",
-  "mac_sha256": "3885cb358165719b0427ec7fb6d75d0764ca4b280397727efc36b749e323efa1",
-  "windows_size": 1629643589,
-  "mac_size": 437452750
+  "version": "3.0.4",
+  "notes": "Добавлены Pro AI и проверка Sonnet, балансы VoiceGen и Lumean, обновлено правило языка надписей.",
+  "windows": "https://github.com/artersh/artersh-releases/releases/download/v3.0.4/ArtErshSTUDIO-Client-Setup-v3.0.4.exe",
+  "mac": "https://github.com/artersh/artersh-releases/releases/download/v3.0.4/ArtErshSTUDIO-Client-Setup-v3.0.4-macos-arm64.dmg",
+  "windows_sha256": "703699f30d439108bdc618c05366ad3a032f02dee9c075b490e7f68b249a19af",
+  "mac_sha256": "f26f3d6854e453b5a952d1932a65282a2ad0b10ac7b0dbf2ceceac8614ccb8d1",
+  "windows_size": 1629579736,
+  "mac_size": 436923010
 }

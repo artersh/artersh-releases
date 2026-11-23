@@ -1,10 +1,10 @@
 {
-  "version": "3.0.4",
-  "notes": "Добавлены Pro AI и проверка Sonnet, балансы VoiceGen и Lumean, обновлено правило языка надписей.",
-  "windows": "https://github.com/artersh/artersh-releases/releases/download/v3.0.4/ArtErshSTUDIO-Client-Setup-v3.0.4.exe",
-  "mac": "https://github.com/artersh/artersh-releases/releases/download/v3.0.4/ArtErshSTUDIO-Client-Setup-v3.0.4-macos-arm64.dmg",
-  "windows_sha256": "703699f30d439108bdc618c05366ad3a032f02dee9c075b490e7f68b249a19af",
-  "mac_sha256": "f26f3d6854e453b5a952d1932a65282a2ad0b10ac7b0dbf2ceceac8614ccb8d1",
-  "windows_size": 1629579736,
-  "mac_size": 436923010
+  "version": "3.0.5",
+  "notes": "Media Studio на главной, прогресс обработки видео, обновлённый разбор каналов и серверная генерация.",
+  "windows": "https://github.com/artersh/artersh-releases/releases/download/v3.0.5/ArtErshSTUDIO-Client-Setup-v3.0.5.exe",
+  "mac": "https://github.com/artersh/artersh-releases/releases/download/v3.0.5/ArtErshSTUDIO-Client-Setup-v3.0.5-macos-arm64.dmg",
+  "windows_sha256": "bc3b95ef2ae850ef3f9e99ec55c8b6a50cc01227adb7346a445669f9d88fe478",
+  "mac_sha256": "959b56d9bd019451cb5bffabcd44e2464a503127d267507056b6209e922a1f8b",
+  "windows_size": 1629657039,
+  "mac_size": 435638643
 }

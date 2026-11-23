@@ -1,10 +1,10 @@
 {
-  "version": "3.0.5",
-  "notes": "Media Studio на главной, прогресс обработки видео, обновлённый разбор каналов и серверная генерация.",
-  "windows": "https://github.com/artersh/artersh-releases/releases/download/v3.0.5/ArtErshSTUDIO-Client-Setup-v3.0.5.exe",
-  "mac": "https://github.com/artersh/artersh-releases/releases/download/v3.0.5/ArtErshSTUDIO-Client-Setup-v3.0.5-macos-arm64.dmg",
-  "windows_sha256": "bc3b95ef2ae850ef3f9e99ec55c8b6a50cc01227adb7346a445669f9d88fe478",
-  "mac_sha256": "959b56d9bd019451cb5bffabcd44e2464a503127d267507056b6209e922a1f8b",
-  "windows_size": 1629657039,
-  "mac_size": 435638643
+  "version": "3.0.6",
+  "notes": "Передача сценария из Media Studio в Кинопроект, исправление промптов слайдов и нативных диалогов macOS.",
+  "windows": "https://github.com/artersh/artersh-releases/releases/download/v3.0.6/ArtErshSTUDIO-Client-Setup-v3.0.6.exe",
+  "mac": "https://github.com/artersh/artersh-releases/releases/download/v3.0.6/ArtErshSTUDIO-Client-Setup-v3.0.6-macos-arm64.dmg",
+  "windows_sha256": "671c7983a1a02168818916bf0dac8c6c698815d78a88b2801ccf68ac09d76d4d",
+  "mac_sha256": "505b45f6a99349af64465f3174159fe1a82b17cb09d88ef16af370507bbf54ab",
+  "windows_size": 1629713977,
+  "mac_size": 434942941
 }

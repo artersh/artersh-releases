@@ -1,10 +1,10 @@
 {
-  "version": "3.0.6",
-  "notes": "Передача сценария из Media Studio в Кинопроект, исправление промптов слайдов и нативных диалогов macOS.",
-  "windows": "https://github.com/artersh/artersh-releases/releases/download/v3.0.6/ArtErshSTUDIO-Client-Setup-v3.0.6.exe",
-  "mac": "https://github.com/artersh/artersh-releases/releases/download/v3.0.6/ArtErshSTUDIO-Client-Setup-v3.0.6-macos-arm64.dmg",
-  "windows_sha256": "671c7983a1a02168818916bf0dac8c6c698815d78a88b2801ccf68ac09d76d4d",
-  "mac_sha256": "505b45f6a99349af64465f3174159fe1a82b17cb09d88ef16af370507bbf54ab",
-  "windows_size": 1629713977,
-  "mac_size": 434942941
+  "version": "3.0.7",
+  "notes": "Обновлены интерфейс, Media Studio и Кинопроект. Автоповтор больше не снимает ручную паузу.",
+  "windows": "https://github.com/artersh/artersh-releases/releases/download/v3.0.7/ArtErshSTUDIO-Client-Setup-v3.0.7.exe",
+  "mac": "https://github.com/artersh/artersh-releases/releases/download/v3.0.7/ArtErshSTUDIO-Client-Setup-v3.0.7-macos-arm64.dmg",
+  "windows_sha256": "c3d5ae85bd663d61687350dfa4794131143284a4265fe821d28652216b322cdf",
+  "mac_sha256": "1689bb430c89898e16b048f62bbc102c5080c081d6a9659a21943a48de5f3c4f",
+  "windows_size": 1629781725,
+  "mac_size": 434047904
 }

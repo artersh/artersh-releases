@@ -1,10 +1,10 @@
 {
-  "version": "3.0.7",
-  "notes": "Обновлены интерфейс, Media Studio и Кинопроект. Автоповтор больше не снимает ручную паузу.",
-  "windows": "https://github.com/artersh/artersh-releases/releases/download/v3.0.7/ArtErshSTUDIO-Client-Setup-v3.0.7.exe",
-  "mac": "https://github.com/artersh/artersh-releases/releases/download/v3.0.7/ArtErshSTUDIO-Client-Setup-v3.0.7-macos-arm64.dmg",
-  "windows_sha256": "c3d5ae85bd663d61687350dfa4794131143284a4265fe821d28652216b322cdf",
-  "mac_sha256": "1689bb430c89898e16b048f62bbc102c5080c081d6a9659a21943a48de5f3c4f",
-  "windows_size": 1629781725,
-  "mac_size": 434047904
+  "version": "3.0.8",
+  "notes": "Обновлены Media Studio, темп озвучки, расчёт длительности, правила портрета героя и языка надписей.",
+  "windows": "https://github.com/artersh/artersh-releases/releases/download/v3.0.8/ArtErshSTUDIO-Client-Setup-v3.0.8.exe",
+  "mac": "https://github.com/artersh/artersh-releases/releases/download/v3.0.8/ArtErshSTUDIO-Client-Setup-v3.0.8-macos-arm64.dmg",
+  "windows_sha256": "e78503ee0052a78fa19ae380869e46e1167618d2605f365b6fd0de23ce927440",
+  "mac_sha256": "7a44190a1ef6851f3985974c02488dabb45c379942f22e1b263535c708c8cc15",
+  "windows_size": 1629874139,
+  "mac_size": 433631605
 }

@@ -1,10 +1,10 @@
 {
-  "version": "3.1.0",
-  "notes": "Исправлен рассинхрон сцен. Готовые кадры сохраняются в media проекта. Лимит Pro AI повышен до 125 000 токенов.",
-  "windows": "https://github.com/artersh/artersh-releases/releases/download/v3.1.0/ArtErshSTUDIO-Client-Setup-v3.1.0.exe",
-  "mac": "https://github.com/artersh/artersh-releases/releases/download/v3.1.0/ArtErshSTUDIO-Client-Setup-v3.1.0-macos-arm64.dmg",
-  "windows_sha256": "ccf022919792ee1991f74723ec6ce4f0dcaa286106cf7d9a5b8d0cb127fdc37f",
-  "mac_sha256": "375ec10a8f9a1aee3901b56e8102ddd26a6a9c4cef8245b232e74dca495d9700",
-  "windows_size": 1631105266,
-  "mac_size": 428393496
+  "version": "3.1.1",
+  "notes": "Музыкальные клипы, доработки чата, фактчекинга и кинопостановки.",
+  "windows": "https://github.com/artersh/artersh-releases/releases/download/v3.1.1/ArtErshSTUDIO-Client-Setup-v3.1.1.exe",
+  "mac": "https://github.com/artersh/artersh-releases/releases/download/v3.1.1/ArtErshSTUDIO-Client-Setup-v3.1.1-macos-arm64.dmg",
+  "windows_sha256": "b380b1576f4c2e7a2e9c030cd63ccd39df9c93255dcb6d0577cfe1cbdd4e0026",
+  "mac_sha256": "57a0d5a234dd856f54dc858ae69c3028db2f956bed6c86310b55c63b63ce3883",
+  "windows_size": 1631524175,
+  "mac_size": 441093570
 }
